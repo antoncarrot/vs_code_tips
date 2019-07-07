@@ -1,0 +1,24 @@
+{
+    "editor.fontFamily": "DejaVuSansMono, Menlo, Monaco, monospace",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 2000,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "editor.accessibilitySupport": "off",
+    "editor.fontLigatures": true,
+    "files.insertFinalNewline": true,
+    "workbench.editor.tabCloseButton": "left",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "terminal.external.osxExec": "iTerm.app",
+    "update.mode": "none",
+    "editor.renderWhitespace": "all",
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": true,
+        "strings": true
+    },
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": ["--ignore=E501"]
+}
