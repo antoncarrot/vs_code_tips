@@ -1,3 +1,7 @@
 # Visual Studio Code tips
 
-vs code config
+macos config path:
+
+```
+~/Library/Application Support/Code/User
+```
