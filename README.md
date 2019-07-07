@@ -1,2 +1,3 @@
-# vs_code_tips
-Visual Studio Code tips
+# Visual Studio Code tips
+
+vs code config
