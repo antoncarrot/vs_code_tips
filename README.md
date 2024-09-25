@@ -1,7 +1,6 @@
 # Visual Studio Code tips
 
-macos config path:
+config path:
 
-```
-~/Library/Application Support/Code/User
-```
+- macOS `$HOME/Library/Application\ Support/Code/User/settings.json`
+- Linux `$HOME/.config/Code/User/settings.json`
